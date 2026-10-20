@@ -1,0 +1,26 @@
+Sentence,True_Sentiment,Predicted_Label,Confidence_Score
+I love learning machine learning and artificial intelligence.,POS,POSITIVE,0.9996054768562317
+The movie was fantastic and very entertaining.,POS,POSITIVE,0.9998874664306641
+The customer service was excellent.,POS,POSITIVE,0.9998237490653992
+I am very happy with my new laptop.,POS,POSITIVE,0.9998654127120972
+The food was delicious and fresh.,POS,POSITIVE,0.9998831748962402
+The teacher explained everything clearly.,POS,POSITIVE,0.9990184307098389
+This product is amazing and works perfectly.,POS,POSITIVE,0.999881386756897
+I had a wonderful experience at the hotel.,POS,POSITIVE,0.9998816251754761
+The application is easy to use and very helpful.,POS,POSITIVE,0.999701201915741
+I am extremely satisfied with the results.,POS,POSITIVE,0.9995502829551697
+I hate waiting for a long time.,NEG,NEGATIVE,0.9868134260177612
+The movie was boring and disappointing.,NEG,NEGATIVE,0.9997933506965637
+The customer service was terrible.,NEG,NEGATIVE,0.9997467398643494
+My laptop is slow and keeps crashing.,NEG,NEGATIVE,0.9960902333259583
+The food was cold and tasteless.,NEG,NEGATIVE,0.999485969543457
+The explanation was confusing and unclear.,NEG,NEGATIVE,0.9993674159049988
+This product is poor quality and useless.,NEG,NEGATIVE,0.9997950196266174
+I had a horrible experience at the hotel.,NEG,NEGATIVE,0.9995304346084595
+The application is difficult to use.,NEG,NEGATIVE,0.9996135830879211
+I am very disappointed with the results.,NEG,NEGATIVE,0.9997926354408264
+The meeting starts at ten in the morning.,NEU,POSITIVE,0.9679663181304932
+The package arrived yesterday.,NEU,POSITIVE,0.9896239638328552
+"The movie was okay, but nothing special.",NEU,NEGATIVE,0.9935320615768433
+"The phone is expensive, but its camera is excellent.",NEU,POSITIVE,0.9994957447052002
+"The food was good, although the service was slow.",NEU,POSITIVE,0.9992770552635193
