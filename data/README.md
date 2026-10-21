@@ -1,1 +1,1 @@
-## This file contains csv file that will used for ANN.
+## This folder contains csv file that will used for ANN.
