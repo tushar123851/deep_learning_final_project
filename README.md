@@ -48,7 +48,7 @@
 Watch the demo video to explore the project workflow and outputs.
 
 <a href="https://drive.google.com/file/d/11TCQmQuohhynSb-HeUVQKi7fXtTramFD/view?usp=sharing">
-  <img src="https://img.shields.io/badge/▶_Watch_Demo_Video-MP4-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video" />
+  <img src="https://img.shields.io/badge/▶_Watch_Demo_Video-GOOGLE DRIVE-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video" />
 </a>
 
 </div>
