@@ -41,10 +41,12 @@
 
 ---
 
+
+
+### 🎬 Deep Learning Project Demo :
+
 <div align="center">
-
-### 🎬 Deep Learning Project Demo
-
+  
 Watch the demo video to explore the project workflow and outputs.
 
 <a href="https://drive.google.com/file/d/11TCQmQuohhynSb-HeUVQKi7fXtTramFD/view?usp=sharing">
