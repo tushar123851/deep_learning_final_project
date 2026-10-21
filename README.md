@@ -41,6 +41,20 @@
 
 ---
 
+<div align="center">
+
+### 🎬 Deep Learning Project Demo
+
+Watch the demo video to explore the project workflow and outputs.
+
+<a href="https://drive.google.com/file/d/11TCQmQuohhynSb-HeUVQKi7fXtTramFD/view?usp=sharing">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo_Video-MP4-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video" />
+</a>
+
+</div>
+
+---
+
 ## ✨ Project Overview
 
 This repository documents five practical machine-learning and deep-learning exercises. Each task follows a common workflow: understand the problem, prepare data, apply a suitable technique, evaluate the output, and interpret the results.
